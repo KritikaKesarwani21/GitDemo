@@ -11,6 +11,8 @@ public class RESTAPITest {
 		System.out.println("RestApiTest1");
 		System.out.println("RestApiTest1 gitdemo");
 		System.out.println("RestApiTest1 gitdemo2");
+		System.out.println("RestApiTest1 gitstuff");
+		System.out.println("RestApiTest1 gitstuff2");
 	}
 	
 	@Test

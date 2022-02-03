@@ -10,6 +10,7 @@ public class SeleniumTest {
 	@Test
 	public void SeleniumTest1() {
 		System.out.println("SeleniumTest1");
+		System.out.println("SeleniumTest1 gitstuff");
 	}
 	
 	@Test
