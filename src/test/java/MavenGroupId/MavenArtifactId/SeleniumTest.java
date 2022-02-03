@@ -17,5 +17,10 @@ public class SeleniumTest {
 	public void SeleniumTest2() {
 		System.out.println("SeleniumTest2");
 	}
+	
+	@Test
+	public void SeleniumTest3() {
+		System.out.println("SeleniumTest3 gitdemo develop");
+	}
 
 }
