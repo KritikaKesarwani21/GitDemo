@@ -9,6 +9,8 @@ public class RESTAPITest {
 	@Test
 	public void RestApiTest1() {
 		System.out.println("RestApiTest1");
+		System.out.println("RestApiTest1 gitdemo");
+		System.out.println("RestApiTest1 gitdemo2");
 	}
 	
 	@Test
