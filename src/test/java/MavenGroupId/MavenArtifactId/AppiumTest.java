@@ -11,6 +11,8 @@ public class AppiumTest {
 		System.out.println("AppiumTest1");
 		System.out.println("AppiumTest1 gitdemo develop");
 		System.out.println("AppiumTest1 gitdemo develop1");
+		System.out.println("AppiumTest1 gitdemo develop1 conflict");
+		System.out.println("AppiumTest1 gitdemo develop1 conflict2");
 	}
 	
 	@Test
